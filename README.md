@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
-### Hi there 👋
+<h3>### Hi there 👋</h3>
 My names are Olaiya Heritage Jesuferanmi
 
 - 🔭 I’m currently working on a javascript Project
