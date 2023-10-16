@@ -34,9 +34,9 @@ My names are Olaiya Heritage Jesuferanmi
 <p align="center"> My GitHub Stats</p>
 
 <p align="center">
-<a href="http://www.github.com/heritagify"><img src="https://github-readme-stats.vercel.app/api?username=heritagify&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Heritagify GitHub stats" /></a>
-<a href="https://github.com/heritagify">
-    <img src="https://github-stats-alpha.vercel.app/api?username=heritagify&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="http://www.github.com/Heritagify"><img src="https://github-readme-stats.vercel.app/api?username=Heritagify&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Heritagify GitHub stats" /></a>
+<a href="https://github.com/Heritagify">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Heritagify&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-<a href="http://www.github.com/heritagify"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heritagify&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Heritagify"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Heritagify&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
